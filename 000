@@ -105,9 +105,9 @@ DOMAIN-SUFFIX,youtube-nocookie.com,SelectGroup
 DOMAIN-SUFFIX,ytimg.com,SelectGroup
 DOMAIN,accounts.google.com,SelectGroup,force-remote-dns,enhanced-mode
 DOMAIN-SUFFIX,appspot.com,SelectGroup,force-remote-dns
-DOMAIN-SUFFIX,googleapis.cn,SelectGroup,force-remote-dns,enhanced-mode
-DOMAIN-SUFFIX,googleapis.com,SelectGroup,force-remote-dns,enhanced-mode
-DOMAIN-SUFFIX,googlesource.com,SelectGroup,force-remote-dns,enhanced-mode
+DOMAIN-SUFFIX,googleapis.cn,Googleplay,force-remote-dns,enhanced-mode
+DOMAIN-SUFFIX,googleapis.com,Googleplay,force-remote-dns,enhanced-mode
+DOMAIN-SUFFIX,googlesource.com,Googleplay,force-remote-dns,enhanced-mode
 DOMAIN-SUFFIX,google.com,SelectGroup,force-remote-dns,enhanced-mode
 DOMAIN-SUFFIX,gmail.com,SelectGroup,force-remote-dns
 DOMAIN-KEYWORD,google,SelectGroup,force-remote-dns
