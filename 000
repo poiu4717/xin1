@@ -128,4 +128,4 @@ DOMAIN-SUFFIX,socloud.me,Proxies
 DOMAIN-SUFFIX,ytoo.asia,Proxies
 DOMAIN-SUFFIX,ytoo.co.uk,Proxies
 GEOIP,CN,DIRECT
-MATCH,Proxies
+FINAL,Proxies
