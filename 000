@@ -125,10 +125,21 @@ DOMAIN-SUFFIX,appspot.com,SelectGroup,force-remote-dns
 DOMAIN-SUFFIX,googlesource.com,SelectGroup,force-remote-dns,enhanced-mode
 DOMAIN-SUFFIX,google.com,SelectGroup,force-remote-dns,enhanced-mode
 DOMAIN-SUFFIX,gmail.com,SelectGroup,force-remote-dns
-DOMAIN-KEYWORD,google,SelectGroup,force-remote-dns
+
 
 # #
 DOMAIN,play-fe.googleapis.com,Googleplay
+DOMAIN,play-fe.googleapis.com,Googleplay
+IP-CIDR,172.217.160.110/32,Googleplay
+IP-CIDR,172.217.163.46/32,Googleplay
+IP-CIDR,172.217.160.78/32,Googleplay
+IP-CIDR,142.251.42.238/32,Googleplay
+IP-CIDR,142.251.43.14/32,Googleplay
+IP-CIDR,142.251.220.77/32,Googleplay
+IP-CIDR,142.251.42.237/32,Googleplay
+IP-CIDR,172.217.163.45/32,Googleplay
+IP-CIDR,142.250.204.78/32,Googleplay
+IP-CIDR,142.250.66.142/32,Googleplay
 DOMAIN,ipinfo.io,Googleplay
 DOMAIN-SUFFIX,netflix.net,SelectGroup
 DOMAIN-SUFFIX,nflxext.com,SelectGroup
