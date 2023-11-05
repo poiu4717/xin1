@@ -130,7 +130,7 @@ DOMAIN-SUFFIX,gmail.com,SelectGroup,force-remote-dns
 # #
 DOMAIN,play-fe.googleapis.com,Googleplay
 DOMAIN,play-fe.googleapis.com,Googleplay
-IP-CIDR,172.217.160.110/32,Googleplay
+IP-CIDR,198.18.1.0/32,Googleplay
 IP-CIDR,172.217.163.46/32,Googleplay
 IP-CIDR,172.217.160.78/32,Googleplay
 IP-CIDR,142.251.42.238/32,Googleplay
