@@ -67,9 +67,12 @@ doh-server = https://doh.pub/dns-query
 尼日利亚8=socks5, 18.162.153.157,36570,poiu4717,9gHUDSv8OK_country-ng_session-LqpdsOkG, udp-relay=false
 尼日利亚9=socks5, 18.162.153.157,36570,poiu4717,9gHUDSv8OK_country-ng_session-oQMIdPk3, udp-relay=false
 尼日利亚10=socks5, 18.162.153.157,36570,poiu4717,9gHUDSv8OK_country-ng_session-qCsgYTQ1, udp-relay=false
+尼日利亚11=https, proxy2.miyaip.com,10003,1b7b34cbmiyaipb76_g-NG_f-ff15_sid-ySckT8qXI4Q_l-30,1k7g3jkssfe8s,skip-cert-verify=true, sni=www.google.com
+尼日利亚12=https, proxy2.miyaip.com,10002,1b7b34cbmiyaipb76_g-NG_f-ff15_sid-yn0d0Q6jWRL_l-30,1k7g3jkssfe8s,skip-cert-verify=true, sni=www.google.com
+尼日利亚13=https, proxy2.miyaip.com,10003,1b7b34cbmiyaipb76_g-NG_f-ff15_sid-ynVADCO0t6P_l-30,1k7g3jkssfe8s,skip-cert-verify=true, sni=www.google.com
 [Proxy Group]
 Proxies= select,  🇭🇰 香港01 | x4_解锁, 🇭🇰 香港02 | x4_解锁, 🇭🇰 香港03 | x5_解锁, 🇭🇰 香港04 | x4_解锁, 🇭🇰 香港05 | x4_解锁, 🇭🇰 香港06 | x5_解锁, 🇭🇰 香港07 | x5_解锁, 🇭🇰 香港08 | x4_解锁, 🇭🇰 香港09 | x4_解锁, 🇭🇰 香港10 | x4_解锁, 🇭🇰 香港11 | x4, 🇭🇰 香港12 | x4, 🇭🇰 香港13 | x4, 🇭🇰 香港14 | x4, 🇭🇰 香港15 | x4, 🇭🇰 香港16 | x4, 🇭🇰 香港17 | x5, 🇭🇰 香港18 | x5, 🇭🇰 香港19 | x5, 🇭🇰 香港20 | x5, 🇸🇬 新加坡01 | x4, 🇸🇬 新加坡02 | x4, 🇸🇬 新加坡03 | x4, 🇸🇬 新加坡04 | x3, 🇸🇬 新加坡05 | x4, 🇸🇬 新加坡06 | x4, 🇸🇬 新加坡07 | x4, 🇸🇬 新加坡08 | x4, 🇸🇬 新加坡09 | x5, 🇸🇬 新加坡10 | x4, 🇯🇵 日本01 | x4, 🇯🇵 日本02 | x4, 🇯🇵 日本03 | x4, 🇯🇵 日本04 | x4, 🇯🇵 日本05 | x4, 🇯🇵 日本06 | x4, 🇯🇵 日本07 | x5, 🇯🇵 日本08 | x5 
-Googleplay= select, 土耳其1,土耳其2, 土耳其3, 🇭🇰 香港03 | x5_解锁, 🇭🇰 香港04 | x4_解锁, 🇭🇰 香港05 | x4_解锁, 土耳其4,土耳其5, 土耳其6, 土耳其7,土耳其8,加纳1, 加纳2, 加纳3,加纳4,加纳5,尼日利亚1, 尼日利亚2, 尼日利亚3,尼日利亚4,尼日利亚5,尼日利亚6, 尼日利亚7, 尼日利亚8,尼日利亚9,尼日利亚10
+Googleplay= select, 土耳其1,土耳其2, 土耳其3, 🇭🇰 香港03 | x5_解锁, 🇭🇰 香港04 | x4_解锁, 🇭🇰 香港05 | x4_解锁, 土耳其4,土耳其5, 土耳其6, 土耳其7,土耳其8,加纳1, 加纳2, 加纳3,加纳4,加纳5,尼日利亚1, 尼日利亚2, 尼日利亚3,尼日利亚4,尼日利亚5,尼日利亚6, 尼日利亚7, 尼日利亚8,尼日利亚9,尼日利亚10, 尼日利亚11,尼日利亚12,尼日利亚13
 
 [Rule]
 DOMAIN-SUFFIX,ipapi.co,Googleplay
