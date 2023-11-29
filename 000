@@ -7,9 +7,9 @@ always-real-ip = stun.l.google.com
 doh-server = https://doh.pub/dns-query
 [Proxy]
 🇭🇰 香港01 | x4_解锁=ss,zz-04.xn--9kq10ed11b.com,57431,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-港HK44= vmess, v44.topman8846.cc, 41344, uuid=f97053da-6cfe-3e69-816a-93fd9417ed8b, alterId=0, cipher=auto, tls=true, udp=true, servername=v41.topman8846.cc
-港HK41= vmess, v41.topman8846.cc, 41341, uuid=f97053da-6cfe-3e69-816a-93fd9417ed8b, alterId=0, cipher=auto, tls=true, udp=true, servername=v41.topman8846.cc
-港HK42= vmess, v42.topman8846.cc, 41342, uuid=f97053da-6cfe-3e69-816a-93fd9417ed8b, alterId=0, cipher=auto, tls=true, udp=true, servername=v41.topman8846.cc
+港HK41 = vmess, v41.topman8846.cc, 41341, username=f97053da-6cfe-3e69-816a-93fd9417ed8b, tls=true, vmess-aead=true, udp-relay=true
+港HK44 = vmess, v44.topman8846.cc, 41344, username=f97053da-6cfe-3e69-816a-93fd9417ed8b, tls=true, vmess-aead=true, udp-relay=true
+港HK42 = vmess, v42.topman8846.cc, 41342, username=f97053da-6cfe-3e69-816a-93fd9417ed8b, tls=true, vmess-aead=true, udp-relay=true
 🇭🇰 香港02 | x4_解锁=ss,zz-02.xn--9kq10ed11b.com,35163,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
 🇭🇰 香港03 | x5_解锁=ss,zz-05.xn--9kq10ed11b.com,41979,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
 🇭🇰 香港04 | x4_解锁=ss,zz-05.xn--9kq10ed11b.com,10554,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
