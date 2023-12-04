@@ -6,7 +6,6 @@ dns-server = 114.114.114.114, 223.5.5.5, system
 always-real-ip = stun.l.google.com
 doh-server = https://doh.pub/dns-query
 [Proxy]
-🇭🇰 香港01 | x4_解锁=ss,zz-04.xn--9kq10ed11b.com,57431,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
 港HK41 = vmess, v41.topman8846.cc, 41341, username=f97053da-6cfe-3e69-816a-93fd9417ed8b, tls=true, vmess-aead=true, udp-relay=true
 港HK44 = vmess, v44.topman8846.cc, 41344, username=f97053da-6cfe-3e69-816a-93fd9417ed8b, tls=true, vmess-aead=true, udp-relay=true
 港HK42 = vmess, v42.topman8846.cc, 41342, username=f97053da-6cfe-3e69-816a-93fd9417ed8b, tls=true, vmess-aead=true, udp-relay=true
@@ -16,43 +15,16 @@ Hong Kong 03=ss,core.ajjpss.lol,41003,encrypt-method=chacha20-ietf-poly1305,pass
 Hong Kong 04=ss,core.ajjpss.lol,41004,encrypt-method=chacha20-ietf-poly1305,password=e543234b-165d-42de-8923-4059cf8b75b8,tfo=true,udp-relay=true
 Hong Kong 05=ss,core.ajjpss.lol,41005,encrypt-method=chacha20-ietf-poly1305,password=e543234b-165d-42de-8923-4059cf8b75b8,tfo=true,udp-relay=true
 Hong Kong 06=ss,core.ajjpss.lol,41006,encrypt-method=chacha20-ietf-poly1305,password=e543234b-165d-42de-8923-4059cf8b75b8,tfo=true,udp-relay=true
-🇭🇰 香港02 | x4_解锁=ss,zz-02.xn--9kq10ed11b.com,35163,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇭🇰 香港03 | x5_解锁=ss,zz-05.xn--9kq10ed11b.com,41979,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇭🇰 香港04 | x4_解锁=ss,zz-05.xn--9kq10ed11b.com,10554,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇭🇰 香港05 | x4_解锁=ss,zz-01.xn--9kq10ed11b.com,21084,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇭🇰 香港06 | x5_解锁=ss,zz-06.xn--9kq10ed11b.com,12191,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇭🇰 香港07 | x5_解锁=ss,zz-08.xn--9kq10ed11b.com,59025,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇭🇰 香港08 | x4_解锁=ss,zz-05.xn--9kq10ed11b.com,42229,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇭🇰 香港09 | x4_解锁=ss,zz-04.xn--9kq10ed11b.com,46364,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇭🇰 香港10 | x4_解锁=ss,zz-01.xn--9kq10ed11b.com,13429,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇭🇰 香港11 | x4=ss,zz-07.xn--9kq10ed11b.com,48453,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇭🇰 香港12 | x4=ss,zz-05.xn--9kq10ed11b.com,26395,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇭🇰 香港13 | x4=ss,zz-01.xn--9kq10ed11b.com,45407,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇭🇰 香港14 | x4=ss,zz-07.xn--9kq10ed11b.com,30406,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇭🇰 香港15 | x4=ss,zz-04.xn--9kq10ed11b.com,41363,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇭🇰 香港16 | x4=ss,zz-05.xn--9kq10ed11b.com,40831,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇭🇰 香港17 | x5=ss,zz-01.xn--9kq10ed11b.com,53484,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇭🇰 香港18 | x5=ss,zz-04.xn--9kq10ed11b.com,32264,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇭🇰 香港19 | x5=ss,zz-07.xn--9kq10ed11b.com,14547,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇭🇰 香港20 | x5=ss,zz-05.xn--9kq10ed11b.com,47171,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇸🇬 新加坡01 | x4=ss,zz-02.xn--9kq10ed11b.com,17306,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇸🇬 新加坡02 | x4=ss,zz-07.xn--9kq10ed11b.com,23054,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇸🇬 新加坡03 | x4=ss,zz-05.xn--9kq10ed11b.com,28250,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇸🇬 新加坡04 | x3=ss,zz-06.xn--9kq10ed11b.com,29173,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇸🇬 新加坡05 | x4=ss,zz-04.xn--9kq10ed11b.com,16475,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇸🇬 新加坡06 | x4=ss,zz-05.xn--9kq10ed11b.com,22383,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇸🇬 新加坡07 | x4=ss,zz-01.xn--9kq10ed11b.com,44877,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇸🇬 新加坡08 | x4=ss,zz-04.xn--9kq10ed11b.com,58367,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇸🇬 新加坡09 | x5=ss,zz-07.xn--9kq10ed11b.com,21784,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇸🇬 新加坡10 | x4=ss,zz-05.xn--9kq10ed11b.com,40399,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇯🇵 日本01 | x4=ss,zz-04.xn--9kq10ed11b.com,47171,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇯🇵 日本02 | x4=ss,zz-03.xn--9kq10ed11b.com,46470,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇯🇵 日本03 | x4=ss,zz-04.xn--9kq10ed11b.com,36787,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇯🇵 日本04 | x4=ss,zz-01.xn--9kq10ed11b.com,33334,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇯🇵 日本05 | x4=ss,zz-06.xn--9kq10ed11b.com,33646,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇯🇵 日本06 | x4=ss,zz-01.xn--9kq10ed11b.com,18849,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇯🇵 日本07 | x5=ss,zz-04.xn--9kq10ed11b.com,32412,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇯🇵 日本08 | x5=ss,zz-01.xn--9kq10ed11b.com,24584,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
+🇭🇰 香港01=ss,zzhk01.51tu.pro,29801,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
+🇭🇰 香港02=ss,zzhk01.51tu.pro,29802,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
+🇭🇰 香港03=ss,zzhk01.51tu.pro,29803,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
+🇭🇰 香港04=ss,zzhk02.51tu.pro,29804,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
+🇭🇰 香港05=ss,zzhk02.51tu.pro,29805,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
+🇭🇰 香港06=ss,zzhk03.51tu.pro,29806,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
+🇭🇰 香港07=ss,zzhk03.51tu.pro,29807,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
+🇭🇰 香港08=ss,zzhk03.51tu.pro,29818,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
+🇭🇰 香港09=ss,zzhk04.51tu.pro,29809,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
+🇭🇰 香港10=ss,zzhk04.51tu.pro,29411,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
 土耳其1=socks5, proxy.miyaip.com,10001,1b7b34cbmiyaipb76_g-tr_f-ff6_sid-gzgBqbwwebq_l-30_sc-1,1g7g3ggggg,udp-relay=false
 土耳其2=socks5, proxy.miyaip.com,10001,1b7b34cbmiyaipb76_g-tr_f-ff6_sid-y15ETzOEj0S_l-30_sc-1,1g7g3ggggg, udp-relay=false
 土耳其3=socks5, proxy.miyaip.com,10001,1b7b34cbmiyaipb76_g-tr_f-ff6_sid-yRFgW4XQCUl_l-30_sc-1,1g7g3ggggg, udp-relay=false
@@ -80,8 +52,8 @@ Hong Kong 06=ss,core.ajjpss.lol,41006,encrypt-method=chacha20-ietf-poly1305,pass
 尼日利亚12=socks5, 18.162.153.157,21500,1b7b34cbmiyaipb76_g-NG_f-ff15_sid-ycaPtFm5E33_l-30_sc-0,1k7g3jkssfe8s,udp-relay=false
 尼日利亚13=socks5, 18.162.153.157,21500,1b7b34cbmiyaipb76_g-NG_f-ff15_sid-gnrjgWY0AvH_l-30_sc-0,1k7g3jkssfe8s,udp-relay=false
 [Proxy Group]
-Proxies= select,  🇭🇰 香港01 | x4_解锁,港HK44,港HK41,港HK42, 🇭🇰 香港02 | x4_解锁, 🇭🇰 香港03 | x5_解锁, 🇭🇰 香港04 | x4_解锁, 🇭🇰 香港05 | x4_解锁, 🇭🇰 香港06 | x5_解锁, 🇭🇰 香港07 | x5_解锁, 🇭🇰 香港08 | x4_解锁, 🇭🇰 香港09 | x4_解锁, 🇭🇰 香港10 | x4_解锁, 🇭🇰 香港11 | x4, 🇭🇰 香港12 | x4, 🇭🇰 香港13 | x4, 🇭🇰 香港14 | x4, 🇭🇰 香港15 | x4, 🇭🇰 香港16 | x4, 🇭🇰 香港17 | x5, 🇭🇰 香港18 | x5, 🇭🇰 香港19 | x5, 🇭🇰 香港20 | x5, 🇸🇬 新加坡01 | x4, 🇸🇬 新加坡02 | x4, 🇸🇬 新加坡03 | x4, 🇸🇬 新加坡04 | x3, 🇸🇬 新加坡05 | x4, 🇸🇬 新加坡06 | x4, 🇸🇬 新加坡07 | x4, 🇸🇬 新加坡08 | x4, 🇸🇬 新加坡09 | x5, 🇸🇬 新加坡10 | x4, 🇯🇵 日本01 | x4, 🇯🇵 日本02 | x4, 🇯🇵 日本03 | x4, 🇯🇵 日本04 | x4, 🇯🇵 日本05 | x4, 🇯🇵 日本06 | x4, 🇯🇵 日本07 | x5, 🇯🇵 日本08 | x5, Hong Kong 01, Hong Kong 02 , Hong Kong 03, Hong Kong 04, Hong Kong 05
-Googleplay= select, 土耳其1,土耳其2, 土耳其3, 🇭🇰 香港03 | x5_解锁, 🇭🇰 香港04 | x4_解锁, 🇭🇰 香港05 | x4_解锁, 土耳其4,土耳其5, 土耳其6, 土耳其7,土耳其8,加纳1, 加纳2, 加纳3,加纳4,加纳5,尼日利亚1, 尼日利亚2, 尼日利亚3,尼日利亚4,尼日利亚5,尼日利亚6, 尼日利亚7, 尼日利亚8,尼日利亚9,尼日利亚10, 尼日利亚11,尼日利亚12,尼日利亚13
+Proxies= select, 港HK41,港HK42,港HK44,🇭🇰 香港01,🇭🇰 香港02,🇭🇰 香港03,🇭🇰 香港04,🇭🇰 香港05,🇭🇰 香港06,🇭🇰 香港07,🇭🇰 香港08,🇭🇰 香港09,🇭🇰 香港10, Hong Kong 01, Hong Kong 02 , Hong Kong 03, Hong Kong 04, Hong Kong 05,Hong Kong 06
+Googleplay= select, 土耳其1,土耳其2, 土耳其3, 🇭🇰 香港01,🇭🇰 香港02,🇭🇰 香港03,土耳其4,土耳其5, 土耳其6, 土耳其7,土耳其8,加纳1, 加纳2, 加纳3,加纳4,加纳5,尼日利亚1, 尼日利亚2, 尼日利亚3,尼日利亚4,尼日利亚5,尼日利亚6, 尼日利亚7, 尼日利亚8,尼日利亚9,尼日利亚10, 尼日利亚11,尼日利亚12,尼日利亚13
 
 [Rule]
 DOMAIN-SUFFIX,ipapi.co,Googleplay
