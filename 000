@@ -25,14 +25,14 @@ Hong Kong 06=ss,core.ajjpss.lol,41006,encrypt-method=chacha20-ietf-poly1305,pass
 🇭🇰 香港08=ss,zzhk03.51tu.pro,29818,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
 🇭🇰 香港09=ss,zzhk04.51tu.pro,29809,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
 🇭🇰 香港10=ss,zzhk04.51tu.pro,29411,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
- 日本_01=ss,zzjp01.51tu.pro,39101,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
- 日本_02=ss,zzjp02.51tu.pro,39192,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
- 日本_03=ss,zzjp03.51tu.pro,39103,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
- 日本_04=ss,zzjp04.51tu.pro,39104,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
- 日本_05=ss,zzjp01.51tu.pro,39105,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
- 日本_06=ss,zzjp02.51tu.pro,39106,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
- 日本_07=ss,zzjp03.51tu.pro,39107,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
- 日本_08=ss,zzjp04.51tu.pro,39418,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
+日本_01=ss,zzjp01.51tu.pro,39101,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
+日本_02=ss,zzjp02.51tu.pro,39192,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
+日本_03=ss,zzjp03.51tu.pro,39103,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
+日本_04=ss,zzjp04.51tu.pro,39104,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
+日本_05=ss,zzjp01.51tu.pro,39105,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
+日本_06=ss,zzjp02.51tu.pro,39106,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
+日本_07=ss,zzjp03.51tu.pro,39107,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
+日本_08=ss,zzjp04.51tu.pro,39418,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
 
 土耳其1=socks5, proxy.miyaip.com,10001,1b7b34cbmiyaipb76_g-tr_f-ff6_sid-gzgBqbwwebq_l-30_sc-1,1g7g3ggggg,udp-relay=false
 土耳其2=socks5, proxy.miyaip.com,10001,1b7b34cbmiyaipb76_g-tr_f-ff6_sid-y15ETzOEj0S_l-30_sc-1,1g7g3ggggg, udp-relay=false
@@ -61,7 +61,7 @@ Hong Kong 06=ss,core.ajjpss.lol,41006,encrypt-method=chacha20-ietf-poly1305,pass
 尼日利亚12=socks5, 18.162.153.157,21500,1b7b34cbmiyaipb76_g-NG_f-ff15_sid-ycaPtFm5E33_l-30_sc-0,1k7g3jkssfe8s,udp-relay=false
 尼日利亚13=socks5, 18.162.153.157,21500,1b7b34cbmiyaipb76_g-NG_f-ff15_sid-gnrjgWY0AvH_l-30_sc-0,1k7g3jkssfe8s,udp-relay=false
 [Proxy Group]
-Proxies= select, 港HK41,港HK42,港HK44,🇭🇰 香港01,🇭🇰 香港02,🇭🇰 香港03,🇭🇰 香港04,🇭🇰 香港05,🇭🇰 香港06,🇭🇰 香港07,🇭🇰 香港08,🇭🇰 香港09,🇭🇰 香港10, Hong Kong 01, Hong Kong 02 , Hong Kong 03, Hong Kong 04, Hong Kong 05,Hong Kong 06, 日本_01, 日本_02, 日本_03,  日本_04 , 日本_05,  日本_06,  日本_07, 日本_08
+Proxies= select, 港HK41,港HK42,港HK44,🇭🇰 香港01,🇭🇰 香港02,🇭🇰 香港03,🇭🇰 香港04,🇭🇰 香港05,🇭🇰 香港06,🇭🇰 香港07,🇭🇰 香港08,🇭🇰 香港09,🇭🇰 香港10, Hong Kong 01, Hong Kong 02 , Hong Kong 03, Hong Kong 04, Hong Kong 05,Hong Kong 06,日本_01,日本_02,日本_03,日本_04 ,日本_05,日本_06,日本_07,日本_08
 Googleplay= select, 土耳其1,土耳其2, 土耳其3, 🇭🇰 香港01,🇭🇰 香港02,🇭🇰 香港03,土耳其4,土耳其5, 土耳其6, 土耳其7,土耳其8,加纳1, 加纳2, 加纳3,加纳4,加纳5,尼日利亚1, 尼日利亚2, 尼日利亚3,尼日利亚4,尼日利亚5,尼日利亚6, 尼日利亚7, 尼日利亚8,尼日利亚9,尼日利亚10, 尼日利亚11,尼日利亚12,尼日利亚13
 
 [Rule]
