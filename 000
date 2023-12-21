@@ -37,41 +37,30 @@ Hong Kong 06=ss,core.ajjpss.lol,41006,encrypt-method=chacha20-ietf-poly1305,pass
 土耳其1=socks5, proxy.miyaip.com,10001,1b7b34cbmiyaipb76_g-tr_f-ff6_sid-gzgBqbwwebq_l-30_sc-1,1g7g3ggggg,udp-relay=false
 土耳其2=socks5, proxy.miyaip.com,10001,1b7b34cbmiyaipb76_g-tr_f-ff6_sid-y15ETzOEj0S_l-30_sc-1,1g7g3ggggg, udp-relay=false
 土耳其3=socks5, proxy.miyaip.com,10001,1b7b34cbmiyaipb76_g-tr_f-ff6_sid-yRFgW4XQCUl_l-30_sc-1,1g7g3ggggg, udp-relay=false
-土耳其4=socks5, 18.162.153.157,36570,poiu4717,9gHUDSv8OK_country-tr_session-f0tkbv2c, udp-relay=false
-土耳其5=socks5, 18.162.153.157,36570,poiu4717,9gHUDSv8OK_country-tr_session-NceBpJOr, udp-relay=false
-土耳其6=socks5, 18.162.153.157,36570,poiu4717,9gHUDSv8OK_country-tr_session-cDTWwUdp, udp-relay=false
-土耳其7=socks5, 18.162.153.157,36570,poiu4717,9gHUDSv8OK_country-tr_session-kVvFpH5t, udp-relay=false
-土耳其8=socks5, 18.162.153.157,36570,poiu4717,9gHUDSv8OK_country-tr_session-Wk4dLrKh, udp-relay=false
-加纳1=socks5, 18.162.153.157,36570,poiu4717,9gHUDSv8OK_country-gh_session-Q1RSqLdh, udp-relay=false
-加纳2=socks5, 18.162.153.157,36570,poiu4717,9gHUDSv8OK_country-gh_session-6ukNqVpc, udp-relay=false
-加纳3=socks5, 18.162.153.157,36570,poiu4717,9gHUDSv8OK_country-gh_session-bHlZNnE4, udp-relay=false
-加纳4=socks5, 18.162.153.157,36570,poiu4717,9gHUDSv8OK_country-gh_session-kc9HIgDE, udp-relay=false
-加纳5=socks5, 18.162.153.157,36570,poiu4717,9gHUDSv8OK_country-gh_session-fnAJxcbU, udp-relay=false
-尼日利亚1=socks5, 18.162.153.157,36570,poiu4717,9gHUDSv8OK_country-ng_session-E8LO9kuw, udp-relay=false
-尼日利亚2=socks5, 18.162.153.157,36570,poiu4717,9gHUDSv8OK_country-ng_session-h4AqS81l, udp-relay=false
-尼日利亚3=socks5, 18.162.153.157,36570,poiu4717,9gHUDSv8OK_country-ng_session-7nwYfk5G, udp-relay=false
-尼日利亚4=socks5, 18.162.153.157,36570,poiu4717,9gHUDSv8OK_country-ng_session-h5iEGIT8, udp-relay=false
-尼日利亚5=socks5, 18.162.153.157,36570,poiu4717,9gHUDSv8OK_country-ng_session-lJrQsoXm, udp-relay=false
-尼日利亚6=socks5, 18.162.153.157,36570,poiu4717,9gHUDSv8OK_country-ng_session-9k3wGNCH, udp-relay=false
-尼日利亚7=socks5, 18.162.153.157,36570,poiu4717,9gHUDSv8OK_country-ng_session-ULwTCWXB, udp-relay=false
-尼日利亚8=socks5, 18.162.153.157,36570,poiu4717,9gHUDSv8OK_country-ng_session-LqpdsOkG, udp-relay=false
-尼日利亚9=socks5, proxy.miyaip.com,10001,1b7b34cbmiyaipb76_g-NG_f-ff15_sid-y3ev7BEdKDn_l-30_sc-0,1k7g3jkssfe8s,udp-relay=false
-尼日利亚10=socks5, proxy.miyaip.com,10001,1b7b34cbmiyaipb76_g-NG_f-ff15_sid-yXRIfn2z60v_l-30_sc-0,1k7g3jkssfe8s,udp-relay=false
-尼日利亚11=socks5, proxy.miyaip.com,10001,1b7b34cbmiyaipb76_g-NG_f-ff15_sid-g7qHekuvgAx_l-30_sc-0,1k7g3jkssfe8s,udp-relay=false
-尼日利亚12=socks5,proxy.miyaip.com,10001,1b7b34cbmiyaipb76_g-NG_f-ff15_sid-yJTUPSObn1R_l-30_sc-0,1k7g3jkssfe8s,udp-relay=false
-尼日利亚13=socks5,proxy.miyaip.com,10001,1b7b34cbmiyaipb76_g-NG_f-ff15_sid-gC6BpczZVrv_l-30_sc-0,1k7g3jkssfe8s,udp-relay=false
-土耳其01=socks5, proxy.miyaip.com,10001,1b7b34cbmiyaipb76_g-tr_f-ff15_sid-yXNx3T1JteU_l-30_sc-0,1k7g3jkssfe8s,udp-relay=false
-土耳其02=socks5, proxy.miyaip.com,10001,1b7b34cbmiyaipb76_g-tr_f-ff15_sid-gXjIrr2b8Kb_l-30_sc-0,1k7g3jkssfe8s,udp-relay=false
-土耳其03=socks5, proxy.miyaip.com,10001,1b7b34cbmiyaipb76_g-tr_f-ff15_sid-y752qrAuYHq_l-30_sc-0,1k7g3jkssfe8s,udp-relay=false
-土耳其04=socks5, 1proxy.miyaip.com,10001,1b7b34cbmiyaipb76_g-tr_f-ff15_sid-g6FaaV0zwGj_l-30_sc-0,1k7g3jkssfe8s,udp-relay=false
-土耳其05=socks5,proxy.miyaip.com,10001,1b7b34cbmiyaipb76_g-tr_f-ff15_sid-gjKuinqaOng_l-30_sc-0,1k7g3jkssfe8s,udp-relay=false
+土耳其4=socks5, 150.109.18.53,30885,poiu4717,9gHUDSv8OK_country-tr_session-rWqxI8DQ, udp-relay=false
+土耳其5=socks5, 150.109.18.53,30885,poiu4717,9gHUDSv8OK_country-tr_session-6J1ouilC, udp-relay=false
+土耳其6=socks5, 150.109.18.53,30885,poiu4717,9gHUDSv8OK_country-tr_session-Di1kvToB, udp-relay=false
+土耳其7=socks5, 150.109.18.53,30885,poiu4717,9gHUDSv8OK_country-tr_session-M0JA6Du4, udp-relay=false
+土耳其8=socks5, 150.109.18.53,30885,poiu4717,9gHUDSv8OK_country-tr_session-lLD9S10k, udp-relay=false
+加纳1=socks5, 150.109.18.53,30885,poiu4717,9gHUDSv8OK_country-gh_session-IornD7xh, udp-relay=false
+加纳2=socks5, 150.109.18.53,30885,poiu4717,9gHUDSv8OK_country-gh_session-0EoAgyfx, udp-relay=false
+加纳3=socks5, 150.109.18.53,30885,poiu4717,9gHUDSv8OK_country-gh_session-cJhTFSGE, udp-relay=false
+加纳4=socks5, 150.109.18.53,30885,poiu4717,9gHUDSv8OK_country-gh_session-aV4Kjno7, udp-relay=false
+加纳5=socks5, 150.109.18.53,30885,poiu4717,9gHUDSv8OK_country-gh_session-SaX07ZtE, udp-relay=false
+尼日利亚1=socks5, 150.109.18.53,30885,poiu4717,9gHUDSv8OK_country-ng_session-0FNntGqj, udp-relay=false
+尼日利亚2=socks5, 150.109.18.53,30885,poiu4717,9gHUDSv8OK_country-ng_session-Yv2EpBOg, udp-relay=false
+尼日利亚3=socks5, 150.109.18.53,30885,poiu4717,9gHUDSv8OK_country-ng_session-2PrUiQT8, udp-relay=false
+尼日利亚4=socks5, 150.109.18.53,30885,poiu4717,9gHUDSv8OK_country-ng_session-Sv39pZqc, udp-relay=false
+尼日利亚5=socks5, 150.109.18.53,30885,poiu4717,9gHUDSv8OK_country-co_session-sXxen8bz, udp-relay=false
+哥伦比亚1=socks5, 150.109.18.53,30885,poiu4717,9gHUDSv8OK_country-ng_session-0FNntGqj, udp-relay=false
+哥伦比亚2=socks5, 150.109.18.53,30885,poiu4717,9gHUDSv8OK_country-co_session-x0ZvcEXJ, udp-relay=false
+哥伦比亚3=socks5, 150.109.18.53,30885,poiu4717,9gHUDSv8OK_country-co_session-veUo7ONB, udp-relay=false
+哥伦比亚4=socks5, 150.109.18.53,30885,poiu4717,9gHUDSv8OK_country-co_session-grYUK23w, udp-relay=false
+哥伦比亚5=socks5, 150.109.18.53,30885,poiu4717,9gHUDSv8OK_country-co_session-tCHilW5O, udp-relay=false
 
-加纳01=socks5,proxy.miyaip.com,10001,1b7b34cbmiyaipb76_g-gh_f-ff15_sid-yOqECJQ11SZ_l-30_sc-0,1k7g3jkssfe8s,udp-relay=false
-加纳03=socks5,proxy.miyaip.com,10001,1b7b34cbmiyaipb76_g-gh_f-ff15_sid-yIepXWACDMn_l-30_sc-0,1k7g3jkssfe8s,udp-relay=false
-加纳04=socks5, proxy.miyaip.com,10001,1b7b34cbmiyaipb76_g-gh_f-ff15_sid-yR1ziXKLI3F_l-30_sc-0,1k7g3jkssfe8s,udp-relay=false
 [Proxy Group]
 Proxies= select, 港HK41,港HK42,港HK44,🇭🇰 香港01,🇭🇰 香港02,🇭🇰 香港03,🇭🇰 香港04,🇭🇰 香港05,🇭🇰 香港06,🇭🇰 香港07,🇭🇰 香港08,🇭🇰 香港09,🇭🇰 香港10, Hong Kong 01, Hong Kong 02 , Hong Kong 03, Hong Kong 04, Hong Kong 05,Hong Kong 06,日本01,日本02,日本03,日本04 ,日本05,日本06,日本07,日本08
-Googleplay= select, 土耳其1,土耳其2, 土耳其3, 🇭🇰 香港01,🇭🇰 香港02,🇭🇰 香港03,土耳其4,土耳其5, 土耳其6, 土耳其7,土耳其8,加纳1, 加纳2, 加纳3,加纳4,加纳5,尼日利亚1, 尼日利亚2, 尼日利亚3,尼日利亚4,尼日利亚5,尼日利亚6, 尼日利亚7, 尼日利亚8,尼日利亚9,尼日利亚10, 尼日利亚11,尼日利亚12,尼日利亚13,土耳其01,土耳其02, 土耳其03, 土耳其04,土耳其05,加纳01, 加纳03,加纳04
+Googleplay= select, 土耳其1,土耳其2, 土耳其3, 🇭🇰 香港01,🇭🇰 香港02,🇭🇰 香港03,土耳其4,土耳其5, 土耳其6, 土耳其7,土耳其8,加纳1, 加纳2, 加纳3,加纳4,加纳5,尼日利亚1, 尼日利亚2, 尼日利亚3,尼日利亚4,尼日利亚5,哥伦比亚1,哥伦比亚2,哥伦比亚3, 哥伦比亚4,哥伦比亚5
 
 [Rule]
 DOMAIN-SUFFIX,ipapi.co,Googleplay
