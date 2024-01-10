@@ -9,12 +9,12 @@ doh-server = https://doh.pub/dns-query
 港HK41 = vmess, v41.topman8846.cc, 41341, username=f97053da-6cfe-3e69-816a-93fd9417ed8b, tls=true, vmess-aead=true, udp-relay=true
 港HK44 = vmess, v44.topman8846.cc, 41344, username=f97053da-6cfe-3e69-816a-93fd9417ed8b, tls=true, vmess-aead=true, udp-relay=true
 港HK42 = vmess, v42.topman8846.cc, 41342, username=f97053da-6cfe-3e69-816a-93fd9417ed8b, tls=true, vmess-aead=true, udp-relay=true
-Hong Kong 01=ss,core.ajjpss.lol,41001,encrypt-method=chacha20-ietf-poly1305,password=e543234b-165d-42de-8923-4059cf8b75b8,tfo=true,udp-relay=true
-Hong Kong 02=ss,core.ajjpss.lol,41002,encrypt-method=chacha20-ietf-poly1305,password=e543234b-165d-42de-8923-4059cf8b75b8,tfo=true,udp-relay=true
-Hong Kong 03=ss,core.ajjpss.lol,41003,encrypt-method=chacha20-ietf-poly1305,password=e543234b-165d-42de-8923-4059cf8b75b8,tfo=true,udp-relay=true
-Hong Kong 04=ss,core.ajjpss.lol,41004,encrypt-method=chacha20-ietf-poly1305,password=e543234b-165d-42de-8923-4059cf8b75b8,tfo=true,udp-relay=true
-Hong Kong 05=ss,core.ajjpss.lol,41005,encrypt-method=chacha20-ietf-poly1305,password=e543234b-165d-42de-8923-4059cf8b75b8,tfo=true,udp-relay=true
-Hong Kong 06=ss,core.ajjpss.lol,41006,encrypt-method=chacha20-ietf-poly1305,password=e543234b-165d-42de-8923-4059cf8b75b8,tfo=true,udp-relay=true
+Hong Kong 01=ss,south.ajjpss.lol,41001,encrypt-method=chacha20-ietf-poly1305,password=e543234b-165d-42de-8923-4059cf8b75b8,tfo=true,udp-relay=true
+Hong Kong 02=ss,south.ajjpss.lol,41002,encrypt-method=chacha20-ietf-poly1305,password=e543234b-165d-42de-8923-4059cf8b75b8,tfo=true,udp-relay=true
+Hong Kong 03=ss,south.ajjpss.lol,41003,encrypt-method=chacha20-ietf-poly1305,password=e543234b-165d-42de-8923-4059cf8b75b8,tfo=true,udp-relay=true
+Hong Kong 04=ss,south.ajjpss.lol,41004,encrypt-method=chacha20-ietf-poly1305,password=e543234b-165d-42de-8923-4059cf8b75b8,tfo=true,udp-relay=true
+Hong Kong 05=ss,south.ajjpss.lol,41005,encrypt-method=chacha20-ietf-poly1305,password=e543234b-165d-42de-8923-4059cf8b75b8,tfo=true,udp-relay=true
+Hong Kong 06=ss,south.ajjpss.lol,41006,encrypt-method=chacha20-ietf-poly1305,password=e543234b-165d-42de-8923-4059cf8b75b8,tfo=true,udp-relay=true
 🇭🇰 香港01=ss,zzhk01.51tu.pro,29801,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
 🇭🇰 香港02=ss,zzhk01.51tu.pro,29802,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
 🇭🇰 香港03=ss,zzhk01.51tu.pro,29803,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
