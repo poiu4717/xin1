@@ -15,24 +15,24 @@ Hong Kong 03=ss,south.ajjpss.lol,41003,encrypt-method=chacha20-ietf-poly1305,pas
 Hong Kong 04=ss,south.ajjpss.lol,41004,encrypt-method=chacha20-ietf-poly1305,password=e543234b-165d-42de-8923-4059cf8b75b8,tfo=true,udp-relay=true
 Hong Kong 05=ss,south.ajjpss.lol,41005,encrypt-method=chacha20-ietf-poly1305,password=e543234b-165d-42de-8923-4059cf8b75b8,tfo=true,udp-relay=true
 Hong Kong 06=ss,south.ajjpss.lol,41006,encrypt-method=chacha20-ietf-poly1305,password=e543234b-165d-42de-8923-4059cf8b75b8,tfo=true,udp-relay=true
-🇭🇰 香港01=ss,zzhk01.51tu.pro,29801,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇭🇰 香港02=ss,zzhk01.51tu.pro,29802,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇭🇰 香港03=ss,zzhk01.51tu.pro,29803,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇭🇰 香港04=ss,zzhk02.51tu.pro,29804,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇭🇰 香港05=ss,zzhk02.51tu.pro,29805,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇭🇰 香港06=ss,zzhk03.51tu.pro,29806,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇭🇰 香港07=ss,zzhk03.51tu.pro,29807,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇭🇰 香港08=ss,zzhk03.51tu.pro,29818,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇭🇰 香港09=ss,zzhk04.51tu.pro,29809,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇭🇰 香港10=ss,zzhk04.51tu.pro,29411,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-日本01=ss,zzjp01.51tu.pro,39101,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-日本02=ss,zzjp02.51tu.pro,39192,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-日本03=ss,zzjp03.51tu.pro,39103,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-日本04=ss,zzjp04.51tu.pro,39104,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-日本05=ss,zzjp01.51tu.pro,39105,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-日本06=ss,zzjp02.51tu.pro,39106,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-日本07=ss,zzjp03.51tu.pro,39107,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-日本08=ss,zzjp04.51tu.pro,39418,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
+🇭🇰 香港_01=ss,gateway.one.91tutu.xyz,29801,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
+🇭🇰 香港_02=ss,gateway.two.91tutu.xyz,29802,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
+🇭🇰 香港_03=ss,gateway.three.91tutu.xyz,29803,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
+🇭🇰 香港_04=ss,gateway.four.91tutu.xyz,29804,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
+🇭🇰 香港_05=ss,gateway.one.91tutu.xyz,29805,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
+🇭🇰 香港_06=ss,gateway.two.91tutu.xyz,29806,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
+🇭🇰 香港_07=ss,gateway.three.91tutu.xyz,29807,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
+🇭🇰 香港_08=ss,gateway.four.91tutu.xyz,29818,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
+🇭🇰 香港_09=ss,gateway.one.91tutu.xyz,29809,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
+🇭🇰 香港_10=ss,gateway.two.91tutu.xyz,29411,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
+🇯🇵 日本_01=ss,gateway.one.91tutu.xyz,39191,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
+🇯🇵 日本_02=ss,gateway.two.91tutu.xyz,39192,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
+🇯🇵 日本_03=ss,gateway.three.91tutu.xyz,39103,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
+🇯🇵 日本_04=ss,gateway.four.91tutu.xyz,39104,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
+🇯🇵 日本_05=ss,gateway.one.91tutu.xyz,39105,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
+🇯🇵 日本_06=ss,gateway.two.91tutu.xyz,39106,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
+🇯🇵 日本_07=ss,gateway.three.91tutu.xyz,39107,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
+🇯🇵 日本_08=ss,gateway.four.91tutu.xyz,39418,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
 Japan 01=ss,east.ajjpss.lol,43001,encrypt-method=chacha20-ietf-poly1305,password=e543234b-165d-42de-8923-4059cf8b75b8,tfo=true,udp-relay=true
 Japan 02=ss,east.ajjpss.lol,43002,encrypt-method=chacha20-ietf-poly1305,password=e543234b-165d-42de-8923-4059cf8b75b8,tfo=true,udp-relay=true
 Japan 03=ss,east.ajjpss.lol,43003,encrypt-method=chacha20-ietf-poly1305,password=e543234b-165d-42de-8923-4059cf8b75b8,tfo=true,udp-relay=true
