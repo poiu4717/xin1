@@ -50,11 +50,11 @@ Japan 05=ss,eyyy1.ajjpss.lol,43405,encrypt-method=aes-128-gcm,password=e543234b-
 土耳其11=socks5, 150.109.18.53,10066,poiu4717,9gHUDSv8OK_country-tr_session-4X2tPMyJ, udp-relay=false
 土耳其12=socks5, 150.109.18.53,10066,poiu4717,9gHUDSv8OK_country-tr_session-LUkGNp8T, udp-relay=false
 土耳其13=socks5, 150.109.18.53,10066,poiu4717,9gHUDSv8OK_country-tr_session-a01x3BLK, udp-relay=false
-加纳1=socks5, 150.109.18.53,30885,poiu4717,9gHUDSv8OK_country-gh_session-IornD7xh, udp-relay=false
-加纳2=socks5, 150.109.18.53,30885,poiu4717,9gHUDSv8OK_country-gh_session-0EoAgyfx, udp-relay=false
-加纳3=socks5, 150.109.18.53,30885,poiu4717,9gHUDSv8OK_country-gh_session-cJhTFSGE, udp-relay=false
-加纳4=socks5, 150.109.18.53,30885,poiu4717,9gHUDSv8OK_country-gh_session-aV4Kjno7, udp-relay=false
-加纳5=socks5, 150.109.18.53,30885,poiu4717,9gHUDSv8OK_country-gh_session-SaX07ZtE, udp-relay=false
+加纳1=socks5, 150.109.18.53,10066,poiu4717,9gHUDSv8OK_country-gh_session-IornD7xh, udp-relay=false
+加纳2=socks5, 150.109.18.53,10066,poiu4717,9gHUDSv8OK_country-gh_session-0EoAgyfx, udp-relay=false
+加纳3=socks5, 150.109.18.53,10066,poiu4717,9gHUDSv8OK_country-gh_session-cJhTFSGE, udp-relay=false
+加纳4=socks5, 150.109.18.53,10066,poiu4717,9gHUDSv8OK_country-gh_session-aV4Kjno7, udp-relay=false
+加纳5=socks5, 150.109.18.53,10066,poiu4717,9gHUDSv8OK_country-gh_session-SaX07ZtE, udp-relay=false
 尼日利亚1=socks5, 150.109.18.53,30885,poiu4717,9gHUDSv8OK_country-ng_session-0FNntGqj, udp-relay=false
 尼日利亚2=socks5, 150.109.18.53,30885,poiu4717,9gHUDSv8OK_country-ng_session-Yv2EpBOg, udp-relay=false
 尼日利亚3=socks5, 150.109.18.53,30885,poiu4717,9gHUDSv8OK_country-ng_session-2PrUiQT8, udp-relay=false
