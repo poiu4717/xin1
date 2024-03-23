@@ -85,9 +85,12 @@ Japan 05=ss,eyyy1.ajjpss.lol,43405,encrypt-method=aes-128-gcm,password=e543234b-
 埃及8=socks5, 150.109.18.53,10066,poiu4717,9gHUDSv8OK_country-eg_session-kC0bqJle, udp-relay=false
 埃及9=socks5, 150.109.18.53,10066,poiu4717,9gHUDSv8OK_country-eg_session-n1VG7ES0, udp-relay=false
 埃及10=socks5, 150.109.18.53,10066,poiu4717,9gHUDSv8OK_country-eg_session-w0O3dhRo, udp-relay=false
+埃及11=socks5, 150.109.18.53,26130,1b7b34cbmiyaipb76_g-eg_f-ff15_sid-yFgZKrnLVJA_l-30_sc-0,1k7g3jkssfe8s, udp-relay=false
+埃及12=socks5, 150.109.18.53,26130,1b7b34cbmiyaipb76_g-eg_f-ff15_sid-yFgZKrnLVJA_l-30_sc-0,1k7g3jkssfe8s, udp-relay=false
+埃及13=socks5, 150.109.18.53,26130,1b7b34cbmiyaipb76_g-eg_f-ff15_sid-ywCRd4OUtdm_l-30_sc-0,1k7g3jkssfe8s, udp-relay=false
 [Proxy Group]
 Proxies= select, 港HK41,港HK42,港HK44,🇭🇰 香港01,🇭🇰 香港02,🇭🇰 香港03,🇭🇰 香港04,🇭🇰 香港05,🇭🇰 香港06,🇭🇰 香港07,🇭🇰 香港08,🇭🇰 香港09,🇭🇰 香港10, Hong Kong 01, Hong Kong 02 , Hong Kong 03, Hong Kong 04, Hong Kong 05,🇯🇵 日本01,🇯🇵 日本02,🇯🇵 日本03,🇯🇵 日本04 ,🇯🇵 日本05,🇯🇵 日本06,🇯🇵 日本07,🇯🇵 日本08,Japan 01,Japan 02,Japan 03,Japan 04,Japan 05
-Googleplay= select, 港HK41,港HK42,港HK44,土耳其1,土耳其2, 土耳其3, 🇭🇰 香港01,🇭🇰 香港02,🇭🇰 香港03,土耳其4,土耳其5, 土耳其6, 土耳其7,土耳其8,土耳其9,土耳其10, 土耳其11, 土耳其12,土耳其13,加纳1, 加纳2, 加纳3,加纳4,加纳5,尼日利亚1, 尼日利亚2, 尼日利亚3,尼日利亚4,尼日利亚5,哥伦比亚1,哥伦比亚2,哥伦比亚3, 哥伦比亚4,哥伦比亚5,尼日利亚6, 尼日利亚7, 尼日利亚8,尼日利亚9,尼日利亚10,尼日利亚11, 尼日利亚12, 尼日利亚13,尼日利亚14,尼日利亚15,埃及1,埃及2,埃及3,埃及4,埃及5,埃及6,埃及7,埃及8,埃及9,埃及10
+Googleplay= select, 港HK41,港HK42,港HK44,土耳其1,土耳其2, 土耳其3, 🇭🇰 香港01,🇭🇰 香港02,🇭🇰 香港03,土耳其4,土耳其5, 土耳其6, 土耳其7,土耳其8,土耳其9,土耳其10, 土耳其11, 土耳其12,土耳其13,加纳1, 加纳2, 加纳3,加纳4,加纳5,尼日利亚1, 尼日利亚2, 尼日利亚3,尼日利亚4,尼日利亚5,哥伦比亚1,哥伦比亚2,哥伦比亚3, 哥伦比亚4,哥伦比亚5,尼日利亚6, 尼日利亚7, 尼日利亚8,尼日利亚9,尼日利亚10,尼日利亚11, 尼日利亚12, 尼日利亚13,尼日利亚14,尼日利亚15,埃及1,埃及2,埃及3,埃及4,埃及5,埃及6,埃及7,埃及8,埃及9,埃及10,埃及11,埃及12,埃及13
 
 [Rule]
 DOMAIN-SUFFIX,ipapi.co,Googleplay
