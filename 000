@@ -9,11 +9,11 @@ doh-server = https://doh.pub/dns-query
 港HK41 = vmess, v41.topman8846.cc, 41341, username=f97053da-6cfe-3e69-816a-93fd9417ed8b, tls=true, vmess-aead=true, udp-relay=true
 港HK44 = vmess, v44.topman8846.cc, 41344, username=f97053da-6cfe-3e69-816a-93fd9417ed8b, tls=true, vmess-aead=true, udp-relay=true
 港HK42 = vmess, v42.topman8846.cc, 41342, username=f97053da-6cfe-3e69-816a-93fd9417ed8b, tls=true, vmess-aead=true, udp-relay=true
-Hong Kong 01=trojan,south.ajjpss.lol,41001,password=e543234b-165d-42de-8923-4059cf8b75b8,sni=hz692gbw.oss-cn-hangzhou.aliyuncs.com,tfo=true,udp-relay=true,skip-cert-verify=true
-Hong Kong 02=trojan,south.ajjpss.lol,41002,password=e543234b-165d-42de-8923-4059cf8b75b8,sni=hz692gbw.oss-cn-hangzhou.aliyuncs.com,tfo=true,udp-relay=true,skip-cert-verify=true
-Hong Kong 03=trojan,south.ajjpss.lol,41003,password=e543234b-165d-42de-8923-4059cf8b75b8,sni=hz692gbw.oss-cn-hangzhou.aliyuncs.com,tfo=true,udp-relay=true,skip-cert-verify=true
-Hong Kong 04=trojan,south.ajjpss.lol,41004,password=e543234b-165d-42de-8923-4059cf8b75b8,sni=hz692gbw.oss-cn-hangzhou.aliyuncs.com,tfo=true,udp-relay=true,skip-cert-verify=true
-Hong Kong 05=trojan,south.ajjpss.lol,41005,password=e543234b-165d-42de-8923-4059cf8b75b8,sni=hz692gbw.oss-cn-hangzhou.aliyuncs.com,tfo=true,udp-relay=true,skip-cert-verify=true
+Hong Kong 01=ss,south.ajjpss.lol,41401,encrypt-method=aes-128-gcm,password=e543234b-165d-42de-8923-4059cf8b75b8,tfo=true,udp-relay=true
+Hong Kong 02=ss,south.ajjpss.lol,41402,encrypt-method=aes-128-gcm,password=e543234b-165d-42de-8923-4059cf8b75b8,tfo=true,udp-relay=true
+Hong Kong 03=ss,south.ajjpss.lol,41403,encrypt-method=aes-128-gcm,password=e543234b-165d-42de-8923-4059cf8b75b8,tfo=true,udp-relay=true
+Hong Kong 04=ss,south.ajjpss.lol,41404,encrypt-method=aes-128-gcm,password=e543234b-165d-42de-8923-4059cf8b75b8,tfo=true,udp-relay=true
+Hong Kong 05=ss,south.ajjpss.lol,41405,encrypt-method=aes-128-gcm,password=e543234b-165d-42de-8923-4059cf8b75b8,tfo=true,udp-relay=true
 🇭🇰 香港01=ss,gateway.one.91tutu.xyz,29801,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
 🇭🇰 香港02=ss,gateway.two.91tutu.xyz,29802,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
 🇭🇰 香港03=ss,gateway.three.91tutu.xyz,29803,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
