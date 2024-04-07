@@ -55,11 +55,11 @@ Japan 05=ss,eyyy1.ajjpss.lol,43405,encrypt-method=aes-128-gcm,password=e543234b-
 加纳3=socks5, 150.109.18.53,10066,poiu4717,9gHUDSv8OK_country-gh_session-cJhTFSGE, udp-relay=false
 加纳4=socks5, 150.109.18.53,10066,poiu4717,9gHUDSv8OK_country-gh_session-aV4Kjno7, udp-relay=false
 加纳5=socks5, 150.109.18.53,10066,poiu4717,9gHUDSv8OK_country-gh_session-SaX07ZtE, udp-relay=false
-尼日利亚1=socks5, 150.109.18.53,30885,poiu4717,9gHUDSv8OK_country-ng_session-0FNntGqj, udp-relay=false
-尼日利亚2=socks5, 150.109.18.53,30885,poiu4717,9gHUDSv8OK_country-ng_session-Yv2EpBOg, udp-relay=false
-尼日利亚3=socks5, 150.109.18.53,30885,poiu4717,9gHUDSv8OK_country-ng_session-2PrUiQT8, udp-relay=false
-尼日利亚4=socks5, 150.109.18.53,30885,poiu4717,9gHUDSv8OK_country-ng_session-Sv39pZqc, udp-relay=false
-尼日利亚5=socks5, 150.109.18.53,30885,poiu4717,9gHUDSv8OK_country-co_session-sXxen8bz, udp-relay=false
+尼日利亚1=socks5, 02cm.gangbi.vip,23067,poiu4717,9gHUDSv8OK_country-ng_session-0FNntGqj, udp-relay=false
+尼日利亚2=socks5, 02cm.gangbi.vip,23067,poiu4717,9gHUDSv8OK_country-ng_session-Yv2EpBOg, udp-relay=false
+尼日利亚3=socks5, 02cm.gangbi.vip,23067,poiu4717,9gHUDSv8OK_country-ng_session-2PrUiQT8, udp-relay=false
+尼日利亚4=socks5, 02cm.gangbi.vip,23067,poiu4717,9gHUDSv8OK_country-ng_session-Sv39pZqc, udp-relay=false
+尼日利亚5=socks5, 02cm.gangbi.vip,23067,poiu4717,9gHUDSv8OK_country-co_session-sXxen8bz, udp-relay=false
 哥伦比亚1=socks5, 150.109.18.53,30885,poiu4717,9gHUDSv8OK_country-ng_session-0FNntGqj, udp-relay=false
 哥伦比亚2=socks5, 150.109.18.53,30885,poiu4717,9gHUDSv8OK_country-co_session-x0ZvcEXJ, udp-relay=false
 哥伦比亚3=socks5, 150.109.18.53,30885,poiu4717,9gHUDSv8OK_country-co_session-veUo7ONB, udp-relay=false
