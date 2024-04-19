@@ -42,11 +42,11 @@ Japan 05=ss,eyyy1.ajjpss.lol,43405,encrypt-method=aes-128-gcm,password=e543234b-
 土耳其3=socks5, proxy.miyaip.com,10001,1b7b34cbmiyaipb76_g-tr_f-ff6_sid-yRFgW4XQCUl_l-30_sc-1,1g7g3ggggg, udp-relay=false
 土耳其4=socks5, 150.109.18.53,30885,poiu4717,9gHUDSv8OK_country-tr_session-rWqxI8DQ, udp-relay=false
 土耳其5=socks5, 150.109.18.53,30885,poiu4717,9gHUDSv8OK_country-tr_session-6J1ouilC, udp-relay=false
-土耳其6=socks5, ss.jinhuiios.top,27860,47353961-zone-custom-region-TR-sessid-9vtnLvtNyN-sessTime-30,dJIA8BM3, udp-relay=false
-土耳其7=socks5, ss.jinhuiios.top,27860,47353961-zone-custom-region-TR-sessid-D7E4lqxgkr-sessTime-30,dJIA8BM3, udp-relay=false
-土耳其8=socks5, ss.jinhuiios.top,27860,47353961-zone-custom-region-TR-sessid-IxcguPH3yb-sessTime-30,dJIA8BM3, udp-relay=false
-土耳其9=socks5, ss.jinhuiios.top,27860,47353961-zone-custom-region-TR-sessid-dgp4AlyBv5-sessTime-30,dJIA8BM3, udp-relay=false
-土耳其10=socks5, ss.jinhuiios.top,27860,47353961-zone-custom-region-TR-sessid-pdwbItKn7O-sessTime-30,dJIA8BM3, udp-relay=false
+土耳其6=socks5, ss.jinhuiios.top,23179,47353961-zone-custom-region-TR-sessid-9vtnLvtNyN-sessTime-30,dJIA8BM3, udp-relay=false
+土耳其7=socks5, ss.jinhuiios.top,23179,47353961-zone-custom-region-TR-sessid-D7E4lqxgkr-sessTime-30,dJIA8BM3, udp-relay=false
+土耳其8=socks5, ss.jinhuiios.top,23179,47353961-zone-custom-region-TR-sessid-IxcguPH3yb-sessTime-30,dJIA8BM3, udp-relay=false
+土耳其9=socks5, ss.jinhuiios.top,23179,47353961-zone-custom-region-TR-sessid-dgp4AlyBv5-sessTime-30,dJIA8BM3, udp-relay=false
+土耳其10=socks5, ss.jinhuiios.top,23179,47353961-zone-custom-region-TR-sessid-pdwbItKn7O-sessTime-30,dJIA8BM3, udp-relay=false
 土耳其11=socks5, 150.109.18.53,10066,poiu4717,9gHUDSv8OK_country-tr_session-4X2tPMyJ, udp-relay=false
 土耳其12=socks5, 150.109.18.53,10066,poiu4717,9gHUDSv8OK_country-tr_session-LUkGNp8T, udp-relay=false
 土耳其13=socks5, 150.109.18.53,10066,poiu4717,9gHUDSv8OK_country-tr_session-a01x3BLK, udp-relay=false
